@@ -1,5 +1,77 @@
 # web-path
 https://zfaka.github.io/web-path/
+Accenture
+Despegar
+Epidata
+Avalith
+Ayi & Asociados
+Baufest
+Belatrix Software
+BVS Technology Solutions Technology
+Capgemini
+Data IQ
+Edrans
+Everis
+EY
+Flux IT
+Global Hitss
+Globant
+Indra
+intive
+Itrio SA
+Mercado Libre
+NEORIS
+Practia Global
+PwC Argentina
+QActions
+Quadion Technologies
+Sofrecom
+Softtek
+Capgemini
+Intive
+TSoft
+Baufest
+Softtek
+Proyecto Nahual
+Summa Solutions
+TATA Consulting Services
+Tsoft
+Émerix
+Xappia
+valkimia
+Xperis
+Coder.io
+GlobalLogic
+DXC Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 syntax on
 
